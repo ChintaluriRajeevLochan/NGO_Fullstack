@@ -8,7 +8,8 @@ This project was developed as part of the **NSS Open Project 2026** with a stron
 
 ## 🚀 Live Demo
 
-Frontend: https://<YOUR-VERCEL-FRONTEND-URL>  
+Website link: https://ngo-frontend-tan.vercel.app/
+
 Backend API: https://ngo-backend-sska.onrender.com  
 
 > ⚠️ Payments run in **Razorpay Sandbox (Test Mode)**.  
@@ -86,7 +87,7 @@ This project was developed as part of the **NSS Open Project 2026** with a stron
 
 ## 🚀 Live Demo
 
-Frontend: https://<YOUR-VERCEL-FRONTEND-URL>  
+Frontend: https://ngo-frontend-tan.vercel.app/ 
 Backend API: https://ngo-backend-sska.onrender.com  
 
 > ⚠️ Payments run in **Razorpay Sandbox (Test Mode)**.  
