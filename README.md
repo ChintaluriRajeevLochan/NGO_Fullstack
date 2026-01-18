@@ -162,7 +162,9 @@ npm run dev
 📦** Deployment**
 
 Backend deployed on Render
+
 Frontend deployed on Vercel
+
 Environment variables configured on both platforms
 
 Video Demo: https://youtu.be/OrIivoi4pcM
