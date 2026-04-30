@@ -1,8 +1,6 @@
 require("dotenv").config();   
-
 const express = require("express");
 const cors = require("cors");
-
 const connectDB = require("./config/db");
 const authRoutes = require("./routes/auth.routes");
 const donationRoutes = require("./routes/donation.routes");
@@ -27,10 +25,11 @@ app.get("/", (req, res) => {
   res.send("NGO Backend Running");
 });
 
-const PORT = process.env.PORT || 5000;
 app.get("/api/health", (req, res) => {
   res.status(200).json({ status: "ok" });
 });
+
+const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
